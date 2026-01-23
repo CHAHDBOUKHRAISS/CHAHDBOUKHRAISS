@@ -3,6 +3,7 @@
 # Hi 👋, I'm **Chahd Boukhraiss**
 
 🎓 *Computer Engineering Student*  
+
 🔐 *Cybersecurity & Network Infrastructure (upcoming specialization)*  
 
 🌱 Passionate about secure systems, computer networks, and understanding how infrastructure design impacts security and reliability  
@@ -48,7 +49,7 @@
 <hr style="border:1px solid #ccc; width:80%;">
 
 #### 🌐 Networking
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 <hr style="border:1px solid #ccc; width:80%;">
 
