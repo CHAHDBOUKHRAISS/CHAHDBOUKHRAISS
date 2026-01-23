@@ -12,7 +12,7 @@
 </div>
 
 
-<div align="center">
+<div>
 
 ### 🌐 Connect with me
 
