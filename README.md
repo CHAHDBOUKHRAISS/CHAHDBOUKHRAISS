@@ -53,7 +53,7 @@
 <hr style="border:1px solid #ccc; width:80%;">
 
 #### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS_Fundamentals-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <hr style="border:1px solid #ccc; width:80%;">
@@ -61,7 +61,7 @@
 #### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![PLSQL](https://img.shields.io/badge/PLSQL-336791?style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <hr style="border:1px solid #ccc; width:80%;">
 
