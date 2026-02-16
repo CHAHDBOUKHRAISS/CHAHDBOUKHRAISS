@@ -19,8 +19,6 @@
 
 <hr style="border:1px solid #30105a; width:80%;"> </div>
 
-----------
-
 <div align="center">
 
 ### 🌐 Connect with me
