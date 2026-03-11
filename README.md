@@ -95,7 +95,7 @@
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latent-noir&theme=aura)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latent-noir&theme=aura&utcOffset=1)
 
 </div>
 
