@@ -95,7 +95,7 @@
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHAHDBOUKHRAISS&theme=aura&utcOffset=1)
+![](https://github-contributor-stats.vercel.app/api?username=CHAHDBOUKHRAISS&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 </div>
 
