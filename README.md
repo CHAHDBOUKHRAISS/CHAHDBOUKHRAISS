@@ -95,7 +95,7 @@
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=CHAHDBOUKHRAISS&limit=5&theme=aura&combine_all_yearly_contributions=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHAHDBOUKHRAISS&theme=aura)
 
 </div>
 
