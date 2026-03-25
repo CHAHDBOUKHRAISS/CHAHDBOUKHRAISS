@@ -100,9 +100,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/blob/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/blob/main/dist/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://github.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/blob/main/dist/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ----------
