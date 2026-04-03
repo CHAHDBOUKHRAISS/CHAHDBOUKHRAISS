@@ -1,7 +1,6 @@
-<div align="center"> 
-<img src="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/main/aura_preview.svg" alt="Chahd B. — Aura 3D Header" width="100%" />
-
- </div>
+<div align="center">
+<img src="https://github.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/blob/main/aura_preview.svg?raw=true" alt="Chahd B. — Aura 3D Header" width="100%" />
+</div>
 
 ----------
 
