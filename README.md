@@ -1,6 +1,7 @@
-<div align="center">
-<img src="https://github.com/latent-noir/latent-noir/blob/main/aura_preview.svg?raw=true" alt="latent-noir — Aura 3D Header" width="100%" />
-</div>
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/latent-noir/latent-noir/main/aura_preview.svg" alt="latent-noir — Aura 3D Header" width="100%" />
+
+ </div>
 
 ----------
 
@@ -98,9 +99,11 @@
 
 </div>
 
-<div align="center">
-<img src="https://github.com/latent-noir/latent-noir/blob/output/github-contribution-grid-snake.gif?raw=true" alt="GitHub Snake" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/latent-noir/latent-noir/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/latent-noir/latent-noir/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/latent-noir/latent-noir/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ----------
 
