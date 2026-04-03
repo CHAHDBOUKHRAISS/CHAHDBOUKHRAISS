@@ -1,5 +1,4 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -7,26 +6,22 @@ on:
   push:
     branches:
       - main
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
       - name: Checkout repo
         uses: actions/checkout@v3
-
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23a277ff&color_dots=#1a1a2e,#2d1b69,#6c3eb8,#9d5fd4,#a277ff
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23a277ff&color_dots=#1a1a2e,#2d1b69,#6c3eb8,#9d5fd4,#a277ff
-            dist/github-contribution-grid-snake.gif?color_snake=%23a277ff&color_dots=#1a1a2e,#2d1b69,#6c3eb8,#9d5fd4,#a277ff
+            dist/github-contribution-grid-snake.svg?color_snake=%23a277ff&color_dots=%231a1a2e,%232d1b69,%236c3eb8,%239d5fd4,%23a277ff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23a277ff&color_dots=%231a1a2e,%232d1b69,%236c3eb8,%239d5fd4,%23a277ff
+            dist/github-contribution-grid-snake.gif?color_snake=%23a277ff&color_dots=%231a1a2e,%232d1b69,%236c3eb8,%239d5fd4,%23a277ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Deploy animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
