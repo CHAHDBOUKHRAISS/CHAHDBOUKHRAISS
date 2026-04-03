@@ -1,6 +1,7 @@
-<div align="center">
-<img src="https://github.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/blob/main/aura_preview.svg?raw=true" alt="Chahd B. — Aura 3D Header" width="100%" />
-</div>
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/main/aura_preview.svg" alt="Chahd B. — Aura 3D Header" width="100%" />
+
+ </div>
 
 ----------
 
@@ -98,9 +99,11 @@
 
 </div>
 
-<div align="center">
-<img src="https://github.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/blob/output/github-contribution-grid-snake.gif?raw=true" alt="GitHub Snake" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ----------
 
