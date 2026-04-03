@@ -1,7 +1,6 @@
-<div align="center"> 
-<img src="https://raw.githubusercontent.com/latent-noir/latent-noir/main/aura_preview.svg" alt="latent-noir — Aura 3D Header" width="100%" />
-
- </div>
+<div align="center">
+<img src="https://github.com/latent-noir/latent-noir/blob/main/aura_preview.svg?raw=true" alt="latent-noir — Aura 3D Header" width="100%" />
+</div>
 
 ----------
 
