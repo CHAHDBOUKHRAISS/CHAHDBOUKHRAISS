@@ -1,7 +1,6 @@
 <div align="center"> 
-<img src="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/main/aura_preview.svg" alt="Chahd B. — Aura 3D Header" width="100%" />
-
- </div>
+<img src="https://github-cards-blond.vercel.app/api/sphere" alt="Chahd B. — Aura 3D Header" width="100%" />
+</div>
 
 ----------
 
@@ -95,15 +94,22 @@
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=CHAHDBOUKHRAISS&limit=5&theme=aura&combine_all_yearly_contributions=true)
+<img src="https://github-cards-blond.vercel.app/api/repos" width="100%" alt="Top Repos"/>
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/CHAHDBOUKHRAISS/CHAHDBOUKHRAISS/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+
+<img src="https://github-cards-blond.vercel.app/api/stats" width="100%" alt="GitHub Stats"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-cards-blond.vercel.app/api/snake" width="100%" alt="GitHub Snake"/>
+
+</div>
+
 
 ----------
 
