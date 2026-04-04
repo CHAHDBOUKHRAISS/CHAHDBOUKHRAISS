@@ -88,7 +88,11 @@
 
 ## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=CHAHDBOUKHRAISS&theme=aura&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=CHAHDBOUKHRAISS&theme=aura&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAHDBOUKHRAISS&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHAHDBOUKHRAISS&theme=aura" />
+<div align="center">
+
+<img src="https://github-cards-blond.vercel.app/api/stats" width="100%" alt="GitHub Stats"/>
+
+</div>
 
 </div> <div align="center"> <hr style="border:1px solid #30105a; width:80%;">
 
@@ -98,11 +102,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-cards-blond.vercel.app/api/stats" width="100%" alt="GitHub Stats"/>
-
-</div>
 
 <div align="center">
 
