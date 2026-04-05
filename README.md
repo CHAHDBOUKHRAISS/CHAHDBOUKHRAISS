@@ -90,7 +90,7 @@
  
 ![Git](https://img.shields.io/badge/Git-E879F9?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-0d0521?style=for-the-badge&logo=github&logoColor=E879F9) ![GitLab](https://img.shields.io/badge/GitLab-A855F7?style=for-the-badge&logo=gitlab&logoColor=white) ![Subversion](https://img.shields.io/badge/Subversion-7B2FBE?style=for-the-badge&logo=subversion&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-38BDF8?style=for-the-badge&logo=jira&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-C084FC?style=for-the-badge&logo=testing-library&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-E879F9?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-A855F7?style=for-the-badge&logo=framer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-38BDF8?style=for-the-badge&logo=canva&logoColor=white)
  
-<hr style="border:1px solid #30105a; width:80%;">
+</div> <div align="center"> <hr style="border:1px solid #30105a; width:80%;">
 ## 📊 GitHub Statistics
 
 <div align="center">
