@@ -26,7 +26,9 @@
 
 ### 🌐 Connect with me
 
-<a href="https://www.linkedin.com/in/chahd-boukhraiss-a2b372375" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> &nbsp; <a href="https://x.com/bkchahd12832" target="_blank"> <img src="https://img.shields.io/badge/X-0d0521?style=for-the-badge&logo=x&logoColor=E879F9" alt="X"> </a> &nbsp; <a href="mailto:chahdboukhraiss7@gmail.com"> <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a>
+<a href="https://www.linkedin.com/in/chahd-boukhraiss-a2b372375" target="_blank"><img src="https://github-cards-blond.vercel.app/linkedin-badge.svg" alt="LinkedIn"/></a> &nbsp;
+<a href="https://x.com/bkchahd12832" target="_blank"><img src="https://github-cards-blond.vercel.app/x-badge.svg" alt="X"/></a> &nbsp;
+<a href="mailto:chahdboukhraiss7@gmail.com"><img src="https://github-cards-blond.vercel.app/email-badge.svg" alt="Email"/></a>
  
 <hr style="border:1px solid #30105a; width:50%; margin-top:10px;"> </div>
 
