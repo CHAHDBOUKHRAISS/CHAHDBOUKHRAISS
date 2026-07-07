@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-cards-blond.vercel.app/api/visitors?v=2" alt="Visitor Count" />
+<img src="https://github-cards-blond.vercel.app/api/visitors?v=2" alt="Visitor Count" width="100%" />
 </div>
 
 ----------
