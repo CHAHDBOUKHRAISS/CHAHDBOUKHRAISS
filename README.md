@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://github-cards-blond.vercel.app/api/intro?v=3" alt="Intro" width="100%" />
+<img src="https://github-cards-blond.vercel.app/api/intro?v=4" alt="Intro" width="100%" />
 
 <hr style="border:1px solid #30105a; width:80%;"> </div>
 
@@ -60,6 +60,6 @@
 
 ## Dev Philosophy
 
-<img src="https://github-cards-blond.vercel.app/api/philosophy?v=3" alt="Philosophy" width="100%" />
+<img src="https://github-cards-blond.vercel.app/api/philosophy?v=4" alt="Philosophy" width="100%" />
 
 </div>
