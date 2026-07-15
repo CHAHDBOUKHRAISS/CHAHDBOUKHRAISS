@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### Connect with me
+<img src="https://github-cards-blond.vercel.app/api/section-title?text=CONNECT_WITH_ME" width="100%" alt="Connect with me"/>
 
 <a href="https://www.linkedin.com/in/chahd-boukhraiss-a2b372375" target="_blank"><img src="https://github-cards-blond.vercel.app/linkedin-badge.svg" alt="LinkedIn"/></a> &nbsp;
 <a href="https://x.com/bkchahd12832" target="_blank"><img src="https://github-cards-blond.vercel.app/x-badge.svg" alt="X"/></a> &nbsp;
@@ -26,15 +26,15 @@
 
 <div align="center">
 
-## Tech Stack
+<img src="https://github-cards-blond.vercel.app/api/section-title?text=TECH_STACK" width="100%" alt="Tech Stack"/>
 
-<img src="https://github-cards-blond.vercel.app/api/techstack?v=5" width="100%" alt="Tech Stack"/>
+<img src="https://github-cards-blond.vercel.app/api/techstack?v=6" width="100%" alt="Tech Stack"/>
 
 </div>
 
 <div align="center"> <hr style="border:1px solid #30105a; width:80%;">
  
-## GitHub Statistics
+<img src="https://github-cards-blond.vercel.app/api/section-title?text=GITHUB_STATISTICS" width="100%" alt="GitHub Statistics"/>
 
 <img src="https://github-cards-blond.vercel.app/api/stats?v=5" width="100%" alt="GitHub Stats"/>
 
@@ -42,7 +42,7 @@
 
 <div align="center"> <hr style="border:1px solid #30105a; width:80%;">
 
-## Top Contributed Repo
+<img src="https://github-cards-blond.vercel.app/api/section-title?text=TOP_CONTRIBUTED_REPO" width="100%" alt="Top Contributed Repo"/>
 
 <img src="https://github-cards-blond.vercel.app/api/repos?v=6" width="100%" alt="Top Repos"/>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-## Dev Philosophy
+<img src="https://github-cards-blond.vercel.app/api/section-title?text=DEV_PHILOSOPHY" width="100%" alt="Dev Philosophy"/>
 
 <img src="https://github-cards-blond.vercel.app/api/philosophy?v=4" alt="Philosophy" width="100%" />
 
