@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://github-cards-blond.vercel.app/api/sphere?v=3" alt="latent-noir — Aura 3D Header" width="100%" />
+<img src="https://github-cards-blond.vercel.app/api/sphere?v=3" alt="Aura 3D Header" width="100%" />
 </div>
 
 <div align="center">
