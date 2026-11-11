@@ -16,16 +16,6 @@
 
 <div align="center">
 
-<img src="https://github-cards-blond.vercel.app/api/section-title?text=CONNECT_WITH_ME" width="100%" alt="Connect with me"/>
-
-
-
-
- 
-<hr style="border:1px solid #30105a; width:50%; margin-top:10px;"> </div>
-
-<div align="center">
-
 <img src="https://github-cards-blond.vercel.app/api/section-title?text=TECH_STACK" width="100%" alt="Tech Stack"/>
 
 <img src="https://github-cards-blond.vercel.app/api/techstack?v=6" width="100%" alt="Tech Stack"/>
